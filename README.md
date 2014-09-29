@@ -3,6 +3,11 @@ angularjs-structured
 
 This repository is a simple angular app that brings modularization to angular.js using require.js. 
 
+Installation
+------------
+- Clone the repo
+- Run `bower install`
+
 Directory Structure
 -------------------
 ```
