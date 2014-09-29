@@ -11,8 +11,6 @@ define([
 
 ], function(require, angular) {
 
-	console.log("bootstrapping app");
-
 	'use strict';		
 
 	angular.bootstrap(document, ['app']);
