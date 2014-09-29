@@ -5,7 +5,6 @@
 require.config({
 
 	paths: {
-		// 'domReady': '../../bower_components/requirejs-domready/domReady',
 		'angular': '../../bower_components/angular/angular',
 		'angular-route': '../../bower_components/angular-route/angular-route'
 	},
