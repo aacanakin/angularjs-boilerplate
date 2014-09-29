@@ -4,8 +4,6 @@
 
 define(['./app'], function(app) {
 
-	console.log("creating routes");
-
 	'use strict';
 
 	return app.config(['$routeProvider',
