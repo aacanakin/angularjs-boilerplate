@@ -88,7 +88,7 @@ define([
 ], function(){});
 ```
 
-- Add the dependancy into app
+- Add the dependency into app
 ```js
 define([
 
