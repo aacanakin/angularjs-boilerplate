@@ -1,9 +1,7 @@
-angularjs-structured
-====================
+angularjs-boilerplate
+=====================
 
-A sample app structure on building structured web apps with angularjs
-=======
-This repository is a simple angular app that brings modularization to angular.js using require.js. 
+This repo is a boilerplate app structure on building structured web apps with angularjs 1.x. It brings modularization to angular.js using require.js. 
 
 Installation
 ------------
